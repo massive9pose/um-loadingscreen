@@ -1,3 +1,12 @@
-- New Loading Screen added
-- Added ERPT Ford Focus Active
-- Added ERPT Unmarked Ford Focus Active
+Ev soygunundan cikan itemlerin sansi yükseltildi. 
+Balikcilik değiştirildi daha kolay hale getirildi, fiyatı arttırıldı.
+Machinepistol uzatılmış eklendi ve blackmarkete eklendi.
+Black market güncellendi, düzeltildi ve türkçeleştirildi.
+SQL ve script optimizasyonu yapıldı.
+Gereksiz haritalar kaldırıldı.
+İskeleye araçların girmesini engellemek için yeni bir kaç güncelleme yapıldı.
+Market scriptindeki bir hata giderildi.
+Silah craftı düzeltildi.
+Araç parçalamada bulunan bildirim gönderme düzeltildi.
+
+
